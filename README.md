@@ -12,23 +12,23 @@ The project follows a complete data analytics workflow, from data cleaning to bu
 
 ### Customer Segment Distribution
 
-![Customer Segment Distribution](images/Segment Distribution.png)
+![Customer Segment Distribution](images/segment_distribution.png)
 
 ### Revenue by Segment
 
-![Revenue by Segment](images/Revenue by Customer Segment.png)
+![Revenue by Segment](images/revenue_by_segment.png)
 
 ### RFM Heatmap
 
-![RFM Heatmap](images/RFM Heatmap.png)
+![RFM Heatmap](images/rfm_heatmap.png)
 
 ### Top Customers
 
-![Top Customers](images/Top 10 Customers by Revenue.png)
+![Top Customers](images/top_customers.png)
 
 ### Pareto Analysis
 
-![Pareto Analysis](images/Pareto Analysis.png)
+![Pareto Analysis](images/pareto_analysis.png)
 
 ---
 
