@@ -12,7 +12,7 @@ The project follows a complete data analytics workflow, from data cleaning to bu
 
 ### Customer Segment Distribution
 
-![Customer Segment Distribution](images/segment_distribution.png)
+![Customer Segment Distribution](../images/segment_distribution.png)
 
 ### Revenue by Segment
 
