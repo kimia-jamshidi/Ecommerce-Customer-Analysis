@@ -8,6 +8,30 @@ The project follows a complete data analytics workflow, from data cleaning to bu
 
 ---
 
+## 📊 Dashboard Preview
+
+### Customer Segment Distribution
+
+![Customer Segment Distribution](images/Segment Distribution.png)
+
+### Revenue by Segment
+
+![Revenue by Segment](images/Revenue by Customer Segment.png)
+
+### RFM Heatmap
+
+![RFM Heatmap](images/RFM Heatmap.png)
+
+### Top Customers
+
+![Top Customers](images/Top 10 Customers by Revenue.png)
+
+### Pareto Analysis
+
+![Pareto Analysis](images/Pareto Analysis.png)
+
+---
+
 ## 🎯 Objectives
 
 - Analyze customer purchasing behavior
